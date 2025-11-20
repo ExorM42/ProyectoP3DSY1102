@@ -4,7 +4,8 @@ Este proyecto es un Sistema de Punto de Venta (POS) desarrollado en Java con el 
 
 Permite a los usuarios (vendedores y administradores) iniciar sesión, gestionar el stock de productos, registrar nuevas ventas y generar reportes sobre el desempeño del negocio.
 
-Funcionalidades Clave
+Funcionalidades Clave:
+
 ✅ Login Seguro: Acceso diferenciado para vendedores y administradores.  
 ✅ Gestión de Stock: Visualización, búsqueda y actualización de inventario (ID, Nombre, Tipo, Precio y Stock).
 
