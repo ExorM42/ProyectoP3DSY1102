@@ -16,7 +16,11 @@ Funcionalidades Clave:
 
 En esta primera imagen tenemos con lo que nos encontraremos al iniciar el programa, correspondiente al login.
 <img width="861" height="572" alt="Captura de pantalla 2025-11-19 233637" src="https://github.com/user-attachments/assets/d0675acc-bbc3-46cd-a1d2-6c1d0db0d1fd" />
-En esta segunda imagen nos 
+En esta segunda imagen nos conectaremos como administrador 
+<img width="752" height="551" alt="Captura de pantalla 2025-11-19 233657" src="https://github.com/user-attachments/assets/20a21a52-f0e1-44fc-b430-42913a617c0a" />
+
+
+
 
 
 
