@@ -332,11 +332,6 @@ public class FORM_menu_principal extends javax.swing.JFrame {
         cerrar.setVisible(true);
         this.dispose();
     }//GEN-LAST:event_jbtn_cerrar1ActionPerformed
-
-    private void cargarUser() {
-        String mijitacopecmediaraja = String.valueOf(Sesion.getInstancia().getRutUsuario());
-
-    }
     /**
      * @param args the command line arguments
      */
